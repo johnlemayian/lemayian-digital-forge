@@ -71,11 +71,11 @@ export const Hero = () => {
           <div className="flex justify-center lg:justify-end slide-up" style={{ animationDelay: '0.3s' }}>
             <div className="relative">
               <div className="w-80 h-80 rounded-full neon-border overflow-hidden pulse-glow">
-                <img 
-                  src={profilePhoto} 
-                  alt="John Lemayian" 
-                  className="w-full h-full object-cover"
-                />
+                 <img 
+                   src="/lovable-uploads/4745afe3-63c1-470b-b77a-c09f910806cd.png"
+                   alt="John Lemayian" 
+                   className="w-full h-full object-cover"
+                 />
               </div>
               {/* Decorative rings */}
               <div className="absolute -inset-4 border border-primary/20 rounded-full animate-spin" style={{ animationDuration: '20s' }} />
